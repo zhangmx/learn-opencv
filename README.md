@@ -4,6 +4,8 @@ learn opencv with python.
 
 ## base
 
+opencv version: opencv-contrib-python 4.10
+
 
 ## requirement
 use pdm to manage project.
