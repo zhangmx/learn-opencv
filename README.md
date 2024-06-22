@@ -1,6 +1,6 @@
 # myopencv
 
-learn opencv with python.
+learn opencv with python. from https://github.com/packtpublishing/machine-learning-for-opencv-second-edition
 
 ## base
 
